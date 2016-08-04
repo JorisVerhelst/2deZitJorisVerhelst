@@ -1,0 +1,5 @@
+#GridPane {
+    -fx-background-image: url("../images/backgroundWelkom.png");
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
